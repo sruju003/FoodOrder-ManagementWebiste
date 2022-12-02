@@ -10,4 +10,11 @@ source "path of admins.sql"/admins.sql
 Run streamlit file using the command :
 python3 -m streamlit run mainlogin.py
 
+If it successfully runs, this is how the output will look :
+
+![Untitled design (7)](https://user-images.githubusercontent.com/80395231/205224472-500f53c2-67d4-4700-979a-ba962a782029.gif)
+
+
+
 There is interface for one customer and one admin but you can modify it by adding several admins and customers by building on this code.
+
